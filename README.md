@@ -37,7 +37,7 @@ git push heroku master
 You will see this warning message if you are pushing to an existing app:
 
 ! [rejected]        master -> master (fetch first)
-error: failed to push some refs to 'https://git.heroku.com/hasura-crwn-clothing.git'
+error: failed to push some refs to 'https://git.heroku.com/esh.......git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
